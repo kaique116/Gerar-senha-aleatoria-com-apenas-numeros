@@ -1,3 +1,5 @@
+<img width="378" height="327" alt="Legal, muito bom mesmo" src="https://github.com/user-attachments/assets/eee1b0a2-31c0-499d-bffe-f4e1a7f6c8b3" />
+
 # Gerar-senha-aleatoria-com-apenas-numeros
 Programa que gera senha aleatória com números, com tamanho que você quiser
 
