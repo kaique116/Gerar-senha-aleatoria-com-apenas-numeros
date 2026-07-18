@@ -23,3 +23,4 @@ Programa que gera senha aleatória com números, com tamanho que você quiser
     O Tkinter já vem instalado no Mac OS!
 
 # PIX PARA DOAÇÕES: "da5e853b-41f5-4f68-963c-e1b425ff9f55" - CHAVE ALEATÓRIA
+<img width="280" height="280" alt="qrcode-pix" src="https://github.com/user-attachments/assets/54558b9e-d3a9-4f15-be74-8ef6a8393260" />
